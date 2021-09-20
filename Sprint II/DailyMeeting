@@ -6,8 +6,14 @@ Fecha: 2021/09/16
 
 Diseñador de Software:
 i. ¿Qué hizo ayer?
+La instalacion del proyecto paso a paso del lado del Cliente y el formulario inicial con Blazor
 ii. ¿Qué hará hoy?
+Realizar el formulario con sus respectivas mejoras y cambios. Y verificar las tareas del Sprint II.
 iii. ¿Qué dificultades ha tenido?
+Tuve dificultades a la hora de instalar el proyecto, porque la primera vez que lo instale estaba trabajando sin conectarme a internet y cuando ejecuto el dotnet new blazorwasm 
+necesitaba descargar unos paquetes, entonces me toco usar el comando DEL para borrar el proyecto y volver a crearlo. Otra cosa que me paso es que tenia poco espacio en el disco 
+y no podia crear el servidor con el comando dotnet watch run. Y lo tercero estaba desocupando algo de espacio del disco  C; pase un curso que tenia de 35GB y mientras pasaba 
+pense en correr el comando para abrir el localhost:5001 y no lo ejecuta si hay alguna tarea pendiente. De resto full y trabajando.
 
 Diseñadora UI:
 i. ¿Qué hizo ayer?
@@ -37,8 +43,11 @@ Fecha: 2021/09/16
 
 Diseñador de Software:
 i. ¿Qué hizo ayer?
+saque las entidades con las que vamos a trabajar y empece a trabajar en el diagrama UML
 ii. ¿Qué hará hoy?
+Terminar el diagrama UML y las entidades de nustro gestor de Peliculas, con las guias que ha hecho nuestro Diseñador UI
 iii. ¿Qué dificultades ha tenido?
+Trabajaré con WhiteStart UML para trabajar el diagrama 
 
 Diseñadora UI:
 i. ¿Qué hizo ayer?
