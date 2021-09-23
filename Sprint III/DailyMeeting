@@ -68,11 +68,11 @@ Ninguna ya que aun no he comenzado a programar.
 
 Administrador de la Configuración
 i. ¿Qué hizo ayer?
-Empezar a desarrollar el nuevo formulario de acuerdo con lo aprendido en la sesión 1 del Módulo 4
+
 ii. ¿Qué hará hoy?
-Buscar información sobre APIs para consumir información sobre ranking mundial e información básica de Universidades
+
 iii. ¿Qué dificultades ha tenido?
-Dos principalmente: Tiempo y no poder tener una definición clara sobre qué proyecto pudiéramos realizar. Sobre la administración del GitHub, no se han presentado dificultades.
+
 *******************************************************************************************************************************************************************************
 Fecha: 2021/09/22
 
@@ -94,20 +94,21 @@ iii. ¿Qué dificultades ha tenido?
 
 Tester:
 i. ¿Qué hizo ayer?
+Revision de los videos propuestos en el moodle de la semana IV.
 
 ii. ¿Qué hará hoy?
+Revision de clase de Desarrollo de software y realizar el paso a paso propuesto por la profesora.
 
 iii. ¿Qué dificultades ha tenido?
-
+Tal vez en algunas dificultades en la ejecucion del codigo, pero esto se debe a errores en la escritura en el visual studio code que posteriormente resuelvo.
 
 Administrador de la Configuración
 i. ¿Qué hizo ayer?
-Buscar información sobre la API para el ranking de universidades. Encontré "Top Universities Scraper" <https://apify.com/vbartonicek/topuniversities-scraper#future-plans>, este
-se basa en el ranking de universidades QS, que es uno de lo más reconocidos. 
+
 ii. ¿Qué hará hoy?
-Analizar cómo se puede armar la base de datos para el nuevo proyecto de universidades.
+
 iii. ¿Qué dificultades ha tenido?
-No comprender cómo es el manejo de API y cómo se consume información de otras páginas de internet para incluirlos en nuestra aplicación.
+
 *******************************************************************************************************************************************************************************
 Fecha: 2021/09/23
 
@@ -137,12 +138,11 @@ iii. ¿Qué dificultades ha tenido?
 
 Administrador de la Configuración
 i. ¿Qué hizo ayer?
-Analizar cómo se puede armar la base de datos para el nuevo proyecto de universidades.
+
 ii. ¿Qué hará hoy?
-Se ha decidido un cambio de proyecto y volver a Home2Med (Hospitalización en casa), dado que ayer se nos informó el plan de trabajo, a nivel de programación, para las semanas 
-que quedan de ciclo. Entonces configuraré el GitHub para ese nuevo proyecto.
+
 iii. ¿Qué dificultades ha tenido?
-No tengo conocimiento aún  de como se manejan las ramas en GitHub para crear varias versiones de los códigos con el fin de poder trabajar paralelamente y dejar una rama master.
+
 *******************************************************************************************************************************************************************************
 Fecha: 2021/09/24
 
